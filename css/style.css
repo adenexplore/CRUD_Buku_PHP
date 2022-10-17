@@ -1,0 +1,75 @@
+body{
+	 font-family:arial bold;
+	 color:black;
+	 background:#FFF;
+	 text-align:center;
+	 background-image: url(http://www.infofotografi.com/blog/wp-content/uploads/2014/04/DSC01640.jpg);
+	 background-size: cover;
+}
+#utama{
+	border:2px double #002625;
+	padding:5px;
+	min-width:330px;
+	max-width:430px;
+	margin:20px auto auto auto;
+}
+h1{
+	font-size:16pt;
+	padding:20px;
+	display:block;
+	border:1px solid green;
+	background:green;
+	color:#FFF;
+	text-align: center;
+}
+h3 a{
+
+	color:black;
+	text-decoration: none;
+	font-family:bold;
+	border: 1px solid;
+	border-radius: 5px;
+}
+h3 a:hover{ 
+	background: skyblue;
+
+}
+
+.layout{
+	background:rgba(100,200,500,.5);
+	color:000;
+	text-align:left;
+	width:auto;
+	border:1px solid #fefefe;
+	border-radius: 10px;
+	padding:20px;
+	line-height:50px;
+}
+.masukan{
+	font-family:"Comic Sans MS","Arial";
+	float:none;
+	height:20px;
+	width:200px;
+	border:1px solid #D6E0E0;
+	border-radius:3px;
+	background:#E8FFFF;
+	padding:4px;
+	color:#929292
+}
+.tbl{
+	border-radius:5px;
+	min-width:60px;
+	border:0px;
+	background:blue;
+	color:#FFFFFF;
+	margin:5px 10px auto 20px;
+	padding:5px;
+	font-weight:bold;
+}
+.tbl:hover{
+	background:pink;
+}
+.aktif{
+	color:#232323;
+}
+
